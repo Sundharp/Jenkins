@@ -12,6 +12,7 @@ public class Class01 {
 		System.out.println("H");
 		System.out.println("A");
 		System.out.println("R");
+		System.out.println(".");
 		
 	}
 
